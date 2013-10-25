@@ -8,4 +8,8 @@ public class Suma {
 	public double incrementa(double operando) {
 		return operando + 1;
 	}
+
+	public double incrementa2(double operando) {
+		return operando + 2;
+	}
 }
